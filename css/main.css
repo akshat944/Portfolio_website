@@ -1,6 +1,6 @@
 body,
 html {
-  background: url(bg.jpg) no-repeat center center fixed;
+  background: url(C:/Users/kumar/Desktop/Portfolio_website/image/bg.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -19,4 +19,15 @@ section {
 
 h5 {
   margin-top: 4px;
+}
+
+.arrow img{
+  display: flex;
+  align-items: center;
+  margin-left: 900px;
+  justify-content: center;
+}
+
+.arrow img:hover{
+  opacity : 30%;
 }
