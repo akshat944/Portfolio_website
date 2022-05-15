@@ -37,15 +37,21 @@ h5 {
   margin-left: 100px;
   margin-bottom: 200px;
   display: flex;
-  align-items: center;
-  justify-content: center;
+  align-items: left;
+  justify-content: left;
+
 } 
 
 .carousel{
-  margin-left: 450px;
-  margin-bottom: 5  00px;
+  margin-left: 430px;
+  margin-bottom: 400px;
   width: 1000px;
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.d-block{
+  margin-left: 380px;
+  margin-bottom: 180px;
 }
