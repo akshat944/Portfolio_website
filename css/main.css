@@ -9,6 +9,7 @@ html {
 
 section {
   margin-top: 400px;
+  margin-bottom: -150px;
 }
 
 .h1 {
@@ -22,12 +23,33 @@ h5 {
 }
 
 .arrow img{
+  width: 1.32%;
   display: flex;
   align-items: center;
-  margin-left: 900px;
+  margin-left: 915px;
   justify-content: center;
 }
 
 .arrow img:hover{
-  opacity : 30%;
+  opacity : 70%;
+}
+.display-1{
+  margin-left: 100px;
+  margin-bottom: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+} 
+
+.carousel{
+  margin-left: 450px;
+  margin-bottom: 5  00px;
+  width: 1000px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.d-block{
+
 }
